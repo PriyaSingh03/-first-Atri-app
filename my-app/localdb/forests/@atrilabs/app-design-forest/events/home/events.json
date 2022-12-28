@@ -1,0 +1,165 @@
+[
+  {
+    "id": "9cfd3989-955c-468e-bfbd-642f6bd5b6e1",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "styles": {}
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "refId": "95335c2b-49eb-4e7b-a183-ac07fd138cca",
+    "childId": "9cfd3989-955c-468e-bfbd-642f6bd5b6e1"
+  },
+  {
+    "id": "07ebc7b9-7a08-4de3-a647-4680b257ef2e",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "custom": {
+          "data": [],
+          "cartesianGrid": {
+            "show": true,
+            "strokeDasharray": "3"
+          },
+          "xAxis": {
+            "show": true,
+            "key": "x"
+          },
+          "yAxis": {
+            "show": true
+          },
+          "toolTip": {
+            "show": true
+          },
+          "legend": {
+            "show": true
+          },
+          "chartHeight": 400,
+          "chartWidth": 400
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "refId": "95335c2b-49eb-4e7b-a183-ac07fd138cca",
+    "childId": "07ebc7b9-7a08-4de3-a647-4680b257ef2e"
+  },
+  {
+    "id": "4573f3df-0645-4ec6-bf1b-0a6eb6ade58b",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "callbacks": {}
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "refId": "95335c2b-49eb-4e7b-a183-ac07fd138cca",
+    "childId": "4573f3df-0645-4ec6-bf1b-0a6eb6ade58b"
+  },
+  {
+    "id": "95335c2b-49eb-4e7b-a183-ac07fd138cca",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "meta": {
+      "pkg": "@atrilabs/react-component-manifests",
+      "key": "BarChart",
+      "manifestSchemaId": "@atrilabs/react-component-manifest-schema"
+    },
+    "state": {
+      "parent": {
+        "id": "body",
+        "index": 1
+      }
+    }
+  },
+  {
+    "id": "95335c2b-49eb-4e7b-a183-ac07fd138cca",
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "alias": "BarChart1"
+    }
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "id": "95335c2b-49eb-4e7b-a183-ac07fd138cca",
+    "slice": {
+      "alias": "BarChart"
+    }
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "id": "95335c2b-49eb-4e7b-a183-ac07fd138cca",
+    "slice": {
+      "alias": "BarChar"
+    }
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "id": "95335c2b-49eb-4e7b-a183-ac07fd138cca",
+    "slice": {
+      "alias": "BarCha"
+    }
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "id": "95335c2b-49eb-4e7b-a183-ac07fd138cca",
+    "slice": {
+      "alias": "BarCh"
+    }
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "id": "95335c2b-49eb-4e7b-a183-ac07fd138cca",
+    "slice": {
+      "alias": "BarC"
+    }
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "id": "95335c2b-49eb-4e7b-a183-ac07fd138cca",
+    "slice": {
+      "alias": "Bar"
+    }
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "id": "95335c2b-49eb-4e7b-a183-ac07fd138cca",
+    "slice": {
+      "alias": "Bar2"
+    }
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "id": "95335c2b-49eb-4e7b-a183-ac07fd138cca",
+    "slice": {
+      "alias": "Bar"
+    }
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "id": "95335c2b-49eb-4e7b-a183-ac07fd138cca",
+    "slice": {
+      "alias": "Bar1"
+    }
+  }
+]
